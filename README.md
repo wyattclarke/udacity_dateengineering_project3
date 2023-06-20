@@ -1,3 +1,3 @@
-# Purpose of this Folder
+# Wyatt Clarke's Project 3 for the Udacity Data Engineering with AWS course
 
-This folder should contain public project starter code. 
+Scripts are included to satisfy the rubric requirements.
